@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_systemfiled" table="x_189907_merit_systems" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_systemfiled</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java script</label>
+            <language>en</language>
+            <name>x_189907_merit_systems</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 11:07:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccc1be1edb001300f09ed7a0cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 11:07:56</sys_updated_on>
+            <value>Java</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_systemfiled</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Html body</label>
+            <language>en</language>
+            <name>x_189907_merit_systems</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 11:07:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00c1be1edb001300f09ed7a0cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 11:07:56</sys_updated_on>
+            <value>Html</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_systemfiled</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_189907_merit_systems</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 11:07:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cc1be1edb001300f09ed7a0cf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 11:07:56</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_systemfiled</element>
+            <name>x_189907_merit_systems</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 11:07:56</sys_created_on>
+            <sys_id>c8c1be1edb001300f09ed7a0cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_systemfiled</sys_name>
+            <sys_package display_value="merit" source="x_189907_merit">3ce42216db001300f09ed7a0cf9619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="merit">3ce42216db001300f09ed7a0cf9619ce</sys_scope>
+            <sys_update_name>sys_choice_x_189907_merit_systems_u_systemfiled</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 11:07:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

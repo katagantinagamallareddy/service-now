@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_ideaimplemented" label="idea implemented" language="en" table="x_189907_merit_systems">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ideaimplemented</element>
+            <help/>
+            <hint/>
+            <label>idea implemented</label>
+            <language>en</language>
+            <name>x_189907_merit_systems</name>
+            <plural>idea implemented</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 12:04:27</sys_created_on>
+            <sys_id>b3aefe92db401300f09ed7a0cf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea implemented</sys_name>
+            <sys_package display_value="merit" source="x_189907_merit">3ce42216db001300f09ed7a0cf9619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="merit">3ce42216db001300f09ed7a0cf9619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_189907_merit_systems_u_ideaimplemented_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 12:04:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-05 10:25:50</sys_created_on>
+        <sys_id>5f186a1adb001300f09ed7a0cf96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_189907_merit_systems.x_189907_merit.systems_user</sys_name>
+        <sys_package display_value="merit" source="x_189907_merit">3ce42216db001300f09ed7a0cf9619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="merit">3ce42216db001300f09ed7a0cf9619ce</sys_scope>
+        <sys_security_acl display_value="x_189907_merit_systems">57186a1adb001300f09ed7a0cf96196a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f186a1adb001300f09ed7a0cf96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-05 10:25:50</sys_updated_on>
+        <sys_user_role display_value="x_189907_merit.systems_user" name="x_189907_merit.systems_user">0b18ee96db001300f09ed7a0cf96199f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="systems" max_length="40" name="x_189907_merit_systems" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="description" mandatory="true" max_length="125" name="u_description" type="string"/>
+        <element label="idea implemented" max_length="40" name="u_ideaimplemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Java " label="system filed" mandatory="true" max_length="40" name="u_systemfiled" type="string">
+            <choice>
+                <element label="Java script" sequence="0" value="Java"/>
+                <element label="Html body" sequence="1" value="Html"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>
